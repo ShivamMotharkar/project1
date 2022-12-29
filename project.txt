@@ -1,0 +1,103 @@
+27 dec project
+US = download section user can download documents anad reports etc
+(assignment progress report , papers , test summary notes, feees recipt ,presenty report
+
+Acceptance criteria
+acces level / role no 1 he can download doc upto 3 year
+tc
+1 he cann download paepr or doc in his local system
+2.
+
+
+
+
+
+
+2 role upto 1 year
+
+3role 3 no papers download 
+
+
+assignment 
+check all tab 
+====================================================================
+===================================================================
+
+GIT
+to create folder throught git bash
+mkdir(make directory) foldername
+|
+cd foldername(change focun on folder)
+|
+ls(files and folder will show)
+|
+git init(to initialize repo)
+|
+ls -alt(to see hidden files from folder)
+|
+git status(show status about data)
+|
+git add .  (add file to staging area)
+|
+git status(file in green changes commited)
+|
+git commit -m "first commit" (to send in local repo & m indicates msg)
+|
+git remote add....(copy from git this command)
+|
+git push origin and master
+|
+git pull origin master(to get file from repo updated)
+|
+add file by add me in git and chek in folder updated or not then check status by status commad
+|
+git status(to check untracked file) screen shod added manually which is untaracked
+|
+git add . (to track this file)
+|
+git status (now  in green)
+|
+git commit -m "added file" (to send in local repo & m indicates msg)
+|
+git push origin master(tto push code or file)
+
+
+Eclipse
+---------
+want to commit full code
+cd path of folder (change dir)
+
+
+create repositor
+
+name repo--create repo--then go to git bash
+
+cd ..  (for back)
+|
+cd desktop (to go on deskdop 
+|
+git add .
+|
+git status
+|
+git commit -m"msg"
+|
+git config --global user.email "mail of git hub"
+|
+git config global user.name " ShivamMotharka"
+|
+git remote origin htttps....(2nd 1st copy and pastr)
+|
+git push origin master
+|
+now generate token(select user repo admin public org repohook) only frst time token needed
+|
+
+git clone url from git
+then
+import project
+
+
+//import directely from git in ecliopse
+
+import --git--proj from git--enter url--next--next
